@@ -8,11 +8,6 @@ The application allows users to add, view, delete, and mark tasks as completed, 
 
 ---
 
-## 🕒 Duration  
-This project is designed to be completed within **2 days**.  
-
----
-
 ## ✨ Features  
 - ✅ **Add Tasks**: Users can create new tasks with a description.  
 - 📋 **View Tasks**: Displays all tasks in a list, showing:  
